@@ -4,4 +4,4 @@
 
 *RECOMMENDED* Run the algorithm on Google Collab
 
-https://github.com/Akif29/AkifKhan.github.io/blob/master/1.gif
+![me](https://github.com/Akif29/AkifKhan.github.io/blob/master/1.gif)
