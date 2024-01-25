@@ -1,9 +1,9 @@
 # PrivacyGuard-Video-Anonymization-Tool
 
-*NEED 4GB GPU TO RUN ON LOCAL MACHINE*
+*NOT OPTIMISED*
 
-*RECOMMENDED* Run the algorithm on Google Collab
+*RECOMMENED TO RUN ON CLOUD COMPUTER TO AVOID LAG*
 
-![me](https://gachi.gay/LqGsF)
+(https://gachi.gay/LqGsF)
 
-![me](https://gachi.gay/V5Bu8)
+(https://gachi.gay/V5Bu8)
