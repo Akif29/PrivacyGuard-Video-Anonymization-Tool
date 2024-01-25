@@ -4,6 +4,6 @@
 
 *RECOMMENDED* Run the algorithm on Google Collab
 
-![me](https://gachi.gay/V5Bu8)
+![me](https://gachi.gay/LqGsF)
 
-![me](https://github.com/Akif29/AkifKhan.github.io/blob/main/1.gif)
+![me](https://gachi.gay/V5Bu8)
