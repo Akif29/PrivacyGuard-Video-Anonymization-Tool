@@ -4,6 +4,6 @@
 
 *RECOMMENED TO RUN ON CLOUD COMPUTER TO AVOID LAG*
 
-(https://gachi.gay/LqGsF)
+![me](https://media.giphy.com/media/1IKehx3WJX2tq4Ebzd/giphy.gif)
 
-(https://gachi.gay/V5Bu8)
+![me](https://media.giphy.com/media/TYentH140pEgadjzsw/giphy.gif)
